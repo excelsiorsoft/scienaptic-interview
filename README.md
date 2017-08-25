@@ -35,6 +35,6 @@ Donts :
 - yes, you guessed it right, we are not "that" online test platform!
 
 
-## See tests for solutions:
+## See tests:
 
 https://github.com/excelsiorsoft/scienaptic-interview/blob/a44d419ec0615e29fdf4551c311129a351e79e4a/src/test/java/com/excelsiorsoft/mazewalk/MatrixWalkerTest.java#L106
