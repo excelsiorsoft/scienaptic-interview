@@ -33,3 +33,6 @@ Donts :
   - comments: types that you use should be self explanatory
 - DO NOT USE Scanner(System.in) ==> please DO NOT take inputs from commandline/System.in
 - yes, you guessed it right, we are not "that" online test platform!
+
+
+See tests for solutions: https://github.com/excelsiorsoft/scienaptic-interview/blob/a44d419ec0615e29fdf4551c311129a351e79e4a/src/test/java/com/excelsiorsoft/mazewalk/MatrixWalkerTest.java#L106
